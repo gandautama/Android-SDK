@@ -38,7 +38,7 @@ class RequestFactory {
 
     static final String BASIC_AUTH_HEADER_NAME = "Authorization";
     static final String BB_SESSION_HEADER_NAME = "X-BB-SESSION";
-    static final String APPCODE_HEADER_NAME = "X-BAASBOX-APPCODE";
+    static final String APPCODE_HEADER_NAME = "X-SBAAS-APPCODE";
     static final String CONTENT_HEADER = "Content-Type";
     static final String JSON_CONTENT = "application/json;charset=";
     static final String FORM_ENCODED_CONTENT = "application/x-www-form-urlencoded;charset=";
